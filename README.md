@@ -34,17 +34,3 @@ php artisan db:seed
 ```bash
 php artisan serve
 ```
-<section class="bg-gray-100 text-gray-800 py-10 px-6 rounded-lg shadow-md mt-10 max-w-3xl mx-auto">
-  <h2 class="text-2xl font-semibold mb-4">📝 Notas del Proyecto</h2>
-  <p class="mb-2">
-    Este proyecto fue desarrollado con fines <strong>académicos y prácticos</strong>. Su estructura está pensada para facilitar el aprendizaje y adaptación a otros contextos.
-  </p>
-  <p>
-    Puedes adaptarlo fácilmente a múltiples casos de uso como:
-    <ul class="list-disc pl-5 mt-2">
-      <li>Gestión de expedientes</li>
-      <li>Archivos legales</li>
-      <li>Sistemas internos de entidades públicas o privadas</li>
-    </ul>
-  </p>
-</section>
