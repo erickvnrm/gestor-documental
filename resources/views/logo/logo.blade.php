@@ -1,0 +1,1 @@
+<img src="{{ asset('images/logo_secretaria_educacion.png') }}" alt="Logo" class="h-11">
